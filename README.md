@@ -1,6 +1,6 @@
 # BookMyShow
-BookMyShow Bot
-BMS Bot
+BookMyShow Bot <br>
+BMS Bot <br>
 Version 1.1<br>
 <br>
 If your desired tickets are listed on BookMyShow but the tickets are being sold out just after being listed, you can try out my bots.<br>
